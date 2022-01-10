@@ -1,0 +1,30 @@
+{
+  "name": "@mimjs/investorapi",
+  "version": "1.1.1",
+  "description": "api for vk mini app investor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MimJS/investorApi.git"
+  },
+  "keywords": [
+    "investroApi",
+    "api",
+    "investor"
+  ],
+  "author": "mimJs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MimJS/investorApi/issues"
+  },
+  "homepage": "https://github.com/MimJS/investorApi#readme",
+  "dependencies": {
+    "axios": "^0.24.0"
+  }
+}
